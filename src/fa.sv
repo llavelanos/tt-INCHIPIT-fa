@@ -2,7 +2,6 @@
 //
 
 module fa_module
-    Che bello imparare SystemVerilog
     (
         input logic A,
         input logic B,
